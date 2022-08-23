@@ -9,6 +9,7 @@ import { Add, Remove } from "@material-ui/icons";
 
 export default function Rightbar({ user }) {
   const PF = process.env.REACT_APP_PUBLIC_FOLDER;
+  console.log(PF);
 
   const { user: currentUser, dispatch } = useContext(AuthContext);
 
