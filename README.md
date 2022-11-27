@@ -1,5 +1,15 @@
 # **Social App**
 
+## Technologies
+
+- [React](https://reactjs.org/docs/getting-started.html)
+- [React Router](https://reactrouter.com/en/main)
+- [Axios](https://axios-http.com/docs/intro)
+- [Socket IO](https://socket.io/)
+- [Node JS](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [Mongo DB](https://www.mongodb.com/)
+
 ## Screenshots
 
 ### **Login**
